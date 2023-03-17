@@ -144,6 +144,7 @@ section {
     background-size: cover;
     background-position: center center;
     height: calc(100vh - 3rem);
+    height: calc(100svh - 3rem);
     margin: 1.5rem;
     color: var(--color-persian-orange);
     text-align: center;
